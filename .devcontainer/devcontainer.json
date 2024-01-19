@@ -4,8 +4,7 @@
     "customizations": {
         "vscode": {
             "extensions": [
-                "haskell.haskell",
-                "justusadam.language-haskell"
+                "haskell.haskell"
             ]
         }
     },
