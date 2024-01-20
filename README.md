@@ -12,4 +12,4 @@ This project includes the necessary `devcontainer.json` and `Dockerfile` needed 
 
 **Method 2: Install Haskell 😪💤 (lame, not cool)**
 
-Install Haskell manually by following the instructions [here](https://www.haskell.org/ghcup/). This project uses Stack, so make sure that is installed. HLS is also a good idea.
+Install Haskell manually by following the instructions [here](https://www.haskell.org/ghcup/).
